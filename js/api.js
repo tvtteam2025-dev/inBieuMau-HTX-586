@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbyeu6vWPCIAhbdE4S8xGxJKhPCIsdomhp8hCHQd88BbM0Jxy64_bJzLBa5hTniYNhoO/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbxFpL4A7xn8xpt9f86JZr_8JIN9YWzUBAwXioxXlEmwETbW3p_CnrfWjjXLZXQEMuPuvQ/exec';
 
 const API = {
     fetchData: async function (id, template, username, password) {
